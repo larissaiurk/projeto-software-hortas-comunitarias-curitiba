@@ -33,10 +33,10 @@ Utilizamos para fazer os diagramas:
 
 ### :page_with_curl: Visões e diagramas desenvolvidos
 [x] Visão de cenário - diagrama de caso de uso <br>
-[x] Visão lógica - diagrama de classe e sequência
-[x] Visão de desenvolvimento - diagrama de pacotes
-[x] Visão física - diagrama de implantação
-[x] Visão de Processos - diagrama de atividades
+[x] Visão lógica - diagrama de classe e sequência <br>
+[x] Visão de desenvolvimento - diagrama de pacotes <br>
+[x] Visão física - diagrama de implantação <br>
+[x] Visão de Processos - diagrama de atividades <br>
 
 ### :mortar_board: Quem ministrou?
 
