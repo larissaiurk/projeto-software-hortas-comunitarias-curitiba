@@ -32,7 +32,7 @@ Utilizamos para fazer os diagramas:
 - [ASTASH](https://astah.net/downloads/)
 
 ### :page_with_curl: Visões e diagramas desenvolvidos
-[x] Visão de cenário - diagrama de caso de uso
+[x] Visão de cenário - diagrama de caso de uso <br>
 [x] Visão lógica - diagrama de classe e sequência
 [x] Visão de desenvolvimento - diagrama de pacotes
 [x] Visão física - diagrama de implantação
