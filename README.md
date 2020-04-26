@@ -23,17 +23,20 @@ visões: visão de cenário, visão lógica, visão de desenvolvimento, visão f
 de processos. Vamos utilizar vários diagramas para abstrair todas as informações e
 regras de negócio para futura implementação do sistema. 
 
-A fundamentação do projeto tem como base os objetivos de desenvolvimento sustentável proposto pela ONU, vamos contemplar a ODS2 “Fome zero e agricultura sustentável: acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável”, (NAÇÕES UNIDAS BRASIL), queremos levar a agricultura sustentável das hortas para mais pessoas da cidade, garantindo toda a segurança alimentar das famílias curitibana. E a ODS8, “Trabalho decente e crescimento econômico: promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todas e todos” (NAÇÕES UNIDAS BRASIL). 
+A fundamentação do projeto tem como <b>base os objetivos de desenvolvimento sustentável proposto pela ONU</b>, vamos contemplar a ODS2 “Fome zero e agricultura sustentável: acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável”, (NAÇÕES UNIDAS BRASIL), queremos levar a agricultura sustentável das hortas para mais pessoas da cidade, garantindo toda a segurança alimentar das famílias curitibana. E a ODS8, “Trabalho decente e crescimento econômico: promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todas e todos” (NAÇÕES UNIDAS BRASIL). 
 
-Com o desenvolvimento de uma vitrine da horta, e compartilhamento do processo
-econômico que acontece dentro dela, queremos garantir atividade econômica ativa
-para os agricultores da horta, consequentemente aumentando a atividade econômica
-da cidade, por meio de inovação tecnológica.
+Com o desenvolvimento de uma vitrine da horta, e compartilhamento do processo econômico que acontece dentro dela, queremos garantir atividade econômica ativa para os agricultores da horta, consequentemente aumentando a atividade econômica da cidade, por meio de inovação tecnológica.
 
 ### :nerd_face: Ferramentas usadas
 Utilizamos para fazer os diagramas:
 - [ASTASH](https://astah.net/downloads/)
 
+### :page_with_curl: Visões e diagramas desenvolvidos
+[x] Visão de cenário - diagrama de caso de uso
+[x] Visão lógica - diagrama de classe e sequência
+[x] Visão de desenvolvimento - diagrama de pacotes
+[x] Visão física - diagrama de implantação
+[x] Visão de Processos - diagrama de atividades
 
 ### :mortar_board: Quem ministrou?
 
